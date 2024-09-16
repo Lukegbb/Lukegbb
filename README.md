@@ -4,7 +4,7 @@
 
 **About me:**
 
-Passionate about technology and programming, I dedicate my free time to learning and developing projects to improve my skills and build a strong portfolio. With a strong foundation in web development, I'm eager to apply my knowledge to challenging projects and contribute to innovative solutions.
+Passionate about technology and programming, I dedicate my free time to learning and developing projects to improve my skills and build a strong portfolio. With a strong foundation, I'm eager to apply my knowledge to challenging projects and contribute to innovative solutions.
 
 **Skills:**
 
