@@ -1,6 +1,6 @@
 ### Lucas Guilherme
 
-**Junior Front-End Developer** constantly evolving, seeking new opportunities to enhance my skills and contribute to innovative projects.
+**Junior Developer** constantly evolving, seeking new opportunities to enhance my skills and contribute to innovative projects.
 
 **About me:**
 
