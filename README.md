@@ -8,13 +8,10 @@ Passionate about technology and programming, I dedicate my free time to learning
 
 **Skills:**
 
-* **JavaScript:** 
+* **Python**
+* **JavaScript:**
 * **HTML5:** 
 * **CSS3:** 
-
-**Projects:**
-
-* **Simple Calculator:** A basic web calculator with fundamental arithmetic operations developed using JavaScript, CSS, and HTML.
 
 **Contact:**
 
